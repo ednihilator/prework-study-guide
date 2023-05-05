@@ -22,3 +22,4 @@ if (topics === 'HTML') {
 }
 }
 listTopics()
+selectTopic()
