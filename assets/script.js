@@ -21,3 +21,4 @@ if (topics === 'HTML') {
   console.log('Please try again!');
 }
 }
+listTopics()
